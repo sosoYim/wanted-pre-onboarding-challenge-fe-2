@@ -1,0 +1,23 @@
+{
+  "name": "wanted-pre-onboarding-challenge-fe-2",
+  "version": "1.0.0",
+  "description": "프리온보딩 프론트엔드 챌린지 2차",
+  "main": "index.js",
+  "scripts": {
+    "docs": "jsdoc -c jsdoc.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sosoYim/wanted-pre-onboarding-challenge-fe-2.git"
+  },
+  "author": "sosoYim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sosoYim/wanted-pre-onboarding-challenge-fe-2/issues"
+  },
+  "homepage": "https://github.com/sosoYim/wanted-pre-onboarding-challenge-fe-2#readme",
+  "devDependencies": {
+    "jsdoc": "^4.0.0",
+    "typescript": "^4.9.5"
+  }
+}
